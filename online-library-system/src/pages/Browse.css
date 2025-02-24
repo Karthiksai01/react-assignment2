@@ -1,0 +1,12 @@
+.navbar button{
+    text-decoration: none;
+    color: rgb(10, 6, 0);
+    background-color:rgb(148, 193, 250);
+    padding: 6px;
+    border-radius: 10px;
+}
+.navbar button:hover{
+    background-color: rgb(189, 125, 125);
+    color: white;
+   
+}
