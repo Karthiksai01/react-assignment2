@@ -24,20 +24,3 @@ next npm install
 now run for the server npm run dev it creates default local URL will be shown
  This is how we can set up project now we can code for our project 
 
-# Project Structure
-/src
-├── components
-│   ├── Navbar.js
-├── data
-│   ├── books.js
-├── pages
-│   ├── Home.js
-│   ├── BrowseBooks.js
-│   ├── BookDetails.js
-│   ├── AddBook.js
-│   ├── NotFound.js
-├── redux
-│   ├── store.js
-│   ├── booksSlice.js
-├── App.js
-└── index.js
